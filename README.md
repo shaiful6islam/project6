@@ -54,7 +54,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For any issues or inquiries, feel free to open an issue or contact:
 
-- **Master:** shaiful6ilam
+- **Master:** shaiful6islam
 - **Email:** [shaiful3549@gmail.com](mailto\:shaiful3549@gmail.com)
 
 ## 👥 Collaborators

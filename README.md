@@ -65,11 +65,15 @@ Email: shaiful3549@gmail.com
 
 👥 Collaborators
 
-Jayonti191106 (sharnasorkar@gmail.com)
+Jayonti191106
+
+Email: sharnasorkar@gmail.com
 
 salman2513446
 
 nafisislam7
+
+Email: nafis7islam@gmail.com
 
 hridoyqavir
 

@@ -41,7 +41,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 6. 🔄 Create a pull request
 
 ## 📜 License
-This project is licensed under the [License Name]. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 📧 Contact
 For any issues or inquiries, feel free to open an issue or contact:
@@ -51,7 +51,8 @@ For any issues or inquiries, feel free to open an issue or contact:
 ## 👥 Collaborators
 1. Jayonti191106
    - Email: sharnasorkar@gmail.com
-2. salman2513446
+2. salman4231
+   - Email: salman.individual@gmail.com
 3. nafisislam7
    - Email: nafis7islam@gmail.com
 4. hridoyqavir

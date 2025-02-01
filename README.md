@@ -62,7 +62,7 @@ For any issues or inquiries, feel free to open an issue or contact:
 1. Jayonti191106
    - Email: [sharnasorkar@gmail.com](mailto\:sharnasorkar@gmail.com)
 2. salman4231
-   - Email: [salman.individual@gmail.com](mailto\:salman.individual@gmail.com)
+   - Email: [salman542135@gmail.com](mailto\:salman542135@gmail.com)
 3. nafisislam7
    - Email: [nafis7islam@gmail.com](mailto\:nafis7islam@gmail.com)
 4. hridoyqavir

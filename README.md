@@ -54,7 +54,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For any issues or inquiries, feel free to open an issue or contact:
 
-- **Master:** shaiful6islam
+- **Username :** shaiful6ilam
 - **Email:** [shaiful3549@gmail.com](mailto\:shaiful3549@gmail.com)
 
 ## 👥 Collaborators
@@ -66,4 +66,5 @@ For any issues or inquiries, feel free to open an issue or contact:
 3. nafisislam7
    - Email: [nafis7islam@gmail.com](mailto\:nafis7islam@gmail.com)
 4. hridoyqavir
+   - Email: [jamil.hridoy@northsouth.edu](mailto\:jamil.hridoy@northsouth.edu)
 
